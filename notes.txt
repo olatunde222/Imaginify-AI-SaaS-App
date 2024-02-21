@@ -1,0 +1,11 @@
+FRAMEWROKS:
+- npx create-next-app@latest [[https://nextjs.org/docs/getting-started/installation]]
+- npx shadcn-ui@latest init [[https://ui.shadcn.com/docs/installation/next]]
+
+
+RUNNING:
+- npm run dev
+
+
+RESOURCES:
+- https://www.youtube.com/watch?v=Ahwoks_dawU&t=297s
